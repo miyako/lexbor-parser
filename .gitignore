@@ -1,2 +1,4 @@
 .vs/*
 .build/*
+x64/Release/lexbor-parser.pdb
+lexbor-parser/x64/*
