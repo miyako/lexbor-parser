@@ -185,10 +185,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="tidy-parser\tidy-parser.h" />
+    <ClInclude Include="lexbor-parser\lexbor-parser.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="tidy-parser\main.cpp" />
+    <ClCompile Include="lexbor-parser\main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
