@@ -9,7 +9,7 @@
 #include <chrono>
 
 #define LEXBOR_STATIC
-#define _WIN32
+//#define _WIN32
 #include <lexbor/html/html.h>
 #include <lexbor/dom/dom.h>
 #include <lexbor/core/str.h>
