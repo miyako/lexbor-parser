@@ -39,9 +39,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		D16478962E611F7700FC9914 /* tidy-parser */ = {
+		D16478962E611F7700FC9914 /* lexbor-parser */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "tidy-parser";
+			path = "lexbor-parser";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -80,7 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				D164789E2E61216B00FC9914 /* lexbor-config.xcconfig */,
-				D16478962E611F7700FC9914 /* tidy-parser */,
+				D16478962E611F7700FC9914 /* lexbor-parser */,
 				D157F30B2E612DD500DF46D3 /* Frameworks */,
 				D16478952E611F7700FC9914 /* Products */,
 			);
@@ -110,7 +110,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				D16478962E611F7700FC9914 /* tidy-parser */,
+				D16478962E611F7700FC9914 /* lexbor-parser */,
 			);
 			name = "lexbor-parser";
 			packageProductDependencies = (
