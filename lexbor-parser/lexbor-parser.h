@@ -9,18 +9,16 @@
 #include <chrono>
 
 #define LEXBOR_STATIC
-//#define _WIN32
+
 #include <lexbor/html/html.h>
 #include <lexbor/dom/dom.h>
 #include <lexbor/core/str.h>
-//#include <lexbor/core/allocator.h>
-//#include <lexbor/core/log.h>
 
 #include <cstdio>
 #include <cstdlib>
 #include <cstring>
 
-#define BUFLEN 1024
+#define BUFLEN 4096
 
 #ifdef __GNUC__
 #define _fopen fopen
